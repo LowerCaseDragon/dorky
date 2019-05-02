@@ -1,4 +1,4 @@
-# dorky
+# dorky. something that i like
 A slab of code made to practically simplify the sharing of all of my mini code projects.
 
 Well... First off. You run the code. I prefer you use Python 3.7.2 since that's what I use and I have seen that this tends to give people problems when it isn't used so... To stay on the safe side. Use 3.7.2.
